@@ -1,6 +1,6 @@
 ## Instagram New Threads Web Application
 
-![App Screenshot](screenshot.png)
+![App Screenshot](./public/screenshot.png)
 
 ### Demo
 
